@@ -3,11 +3,13 @@ body {
   background-color: black;
 }
 .row {
-  width: 75%;
-  background-image: url('images/top-logo-nav.jpg');
-  background-size: cover;
+  
 }
-
+.col-lg-8 {
+  background-image: url('images/top-logo-nav.jpg');
+  padding-left: 10%;
+  padding-right: 10%;
+}
 h1 {
   color: white;
   text-align: center;
