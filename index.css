@@ -1,8 +1,11 @@
-.container {
+
+body {
   background-color: black;
+}
+.row {
+  width: 75%;
+  background-image: url('images/top-logo-nav.jpg');
   background-size: cover;
-  height: 100%;
-  width: 100%;
 }
 
 h1 {
