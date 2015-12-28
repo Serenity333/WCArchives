@@ -3,9 +3,10 @@ body {
   background-color: black;
 }
 
-li {
+.nav li {
   display: inline;
-  
+  color: white;
+  font-family: 'Alegreya', serif;  
 }
 
 .navbar {
