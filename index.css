@@ -8,9 +8,10 @@ body {
   color: white;
   font-family: 'Alegreya', serif;  
 }
-
-.navbar {
-
+ 
+ a {
+   color: white;
+ }
 .row {
   
 }
