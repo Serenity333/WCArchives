@@ -14,3 +14,7 @@ h1 {
   font-size: 60px;
   font-family: 'Alegreya', serif;
 }
+
+#logo {
+  vertical-align: middle;
+}
