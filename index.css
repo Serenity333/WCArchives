@@ -3,6 +3,10 @@ body {
   background-color: black;
 }
 
+.nav .container {
+  margin-left: 0px;
+}
+
 .nav li {
   display: inline;
   font-family: 'Alegreya', serif;  
