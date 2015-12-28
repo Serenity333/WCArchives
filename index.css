@@ -5,8 +5,8 @@ body {
 
 .nav li {
   display: inline;
-  color: white;
   font-family: 'Alegreya', serif;  
+  padding-left: 10px;
 }
  
  a {
