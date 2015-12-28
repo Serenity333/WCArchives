@@ -2,15 +2,22 @@
 body {
   background-color: black;
 }
+
 li {
   display: inline;
+  
 }
+
+.navbar {
+
 .row {
   
 }
+
 .col-lg-12 {
   
 }
+
 h1 {
   color: white;
   text-align: center;
