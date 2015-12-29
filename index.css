@@ -34,6 +34,12 @@ body {
 .thumbnail {
   height: 200px;
   width: 400px;
+  border: 0px;
+}
+
+p {
+  color: white;
+  font-family: 'Alegreya', serif;
 }
 
 h1 {
