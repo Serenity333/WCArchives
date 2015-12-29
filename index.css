@@ -38,6 +38,8 @@ body {
   border: 0px;
   background-color: black;
   vertical-align: middle;
+  margin-right: 5px;
+  margin-left: 5px;
 }
 
 p {
