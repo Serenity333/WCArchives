@@ -46,6 +46,10 @@ td {
   color: white;
 }
 
+#left {
+  padding-right: 7px;
+}
+
 #logo {
     display: block;
     margin-left: auto;
