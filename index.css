@@ -29,6 +29,8 @@ body {
   margin-top: 10px;
   margin-bottom: 10px;
   width: 1200px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .col-lg-12 {
