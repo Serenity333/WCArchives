@@ -28,8 +28,13 @@ body {
 h1 {
   color: white;
   text-align: center;
-  font-size: 60px;
+  font-size: 30px;
   font-family: 'Alegreya', serif;
+}
+
+table, tr, td {
+  border: 0px;
+  background-color: black;
 }
 
 #logo {
