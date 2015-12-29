@@ -33,8 +33,9 @@ body {
 
 .thumbnail {
   height: 200px;
-  width: 400px;
+  width: 300px;
   border: 0px;
+  background-color: black;
 }
 
 p {
