@@ -37,6 +37,11 @@ table, tr, td {
   background-color: black;
 }
 
+td {
+  padding: 5px;
+  font: white;
+}
+
 #logo {
     display: block;
     margin-left: auto;
