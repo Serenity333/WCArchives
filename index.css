@@ -13,6 +13,10 @@ body {
   padding-left: 10px;
   margin-left: 0px;
 }
+
+.container {
+  padding: 0px;
+}
  
  a {
    color: white;
@@ -39,7 +43,7 @@ table, tr, td {
 
 td {
   padding: 5px;
-  font: white;
+  color: white;
 }
 
 #logo {
