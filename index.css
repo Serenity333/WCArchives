@@ -24,7 +24,8 @@ body {
    color: white;
  }
 .row {
-  
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .col-lg-12 {
@@ -36,11 +37,13 @@ body {
   width: 300px;
   border: 0px;
   background-color: black;
+  vertical-align: middle;
 }
 
 p {
   color: white;
   font-family: 'Alegreya', serif;
+  text-align: center;
 }
 
 h1 {
