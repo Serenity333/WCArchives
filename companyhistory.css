@@ -1,0 +1,51 @@
+body {
+  background-color: black;
+}
+
+.nav .container {
+  margin-left: 0px;
+}
+
+.nav li {
+  display: inline;
+  font-family: 'Alegreya', serif;  
+  padding-left: 10px;
+  margin-left: 0px;
+}
+
+.container {
+  padding: 10px;
+  margin-left: 100px;
+  margin-right: 20px;
+  vertical-align: middle;
+  
+}
+ 
+ a {
+   color: white;
+ }
+ 
+.row {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 1200px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.col-lg-12 {
+  
+}
+
+p {
+  color: white;
+  font-family: 'Alegreya', serif;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Alegreya', serif;
+}
