@@ -49,3 +49,13 @@ h1 {
   font-size: 30px;
   font-family: 'Alegreya', serif;
 }
+
+table, tr, td {
+  border: 0px;
+  background-color: black;
+}
+
+td {
+  padding: 5px;
+  color: white;
+}
